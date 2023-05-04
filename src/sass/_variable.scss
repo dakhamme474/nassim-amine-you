@@ -9,9 +9,8 @@ $xfooter : #505051 ;
 $custom-colors : ( 
     "darken" : $nav ,
     "pack" : $package ,
-    "baige" : $xbaige ,
+    "baige" : $xbeige ,
     "bottum" : $xfooter ,
-
 ) ;
 $theme-colors : map-merge($theme-colors , $custom-colors )
 
